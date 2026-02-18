@@ -1,0 +1,4 @@
+vhi_data/
+*.csv
+*.txt
+!requirements.txt
