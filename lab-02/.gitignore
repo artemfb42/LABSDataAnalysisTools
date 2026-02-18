@@ -1,4 +1,17 @@
+# Специфічні дані лабораторної
 vhi_data/
 *.csv
 *.txt
+*.json
+*.log
 !requirements.txt
+
+# Віртуальне середовище та кеш Python
+venv/
+__pycache__/
+
+# Системні файли та налаштування IDE
+.DS_Store
+.idea/
+.vscode/
+*.swp
