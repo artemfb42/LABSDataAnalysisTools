@@ -1,0 +1,17 @@
+
+# Системні файли та налаштування IDE
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Віртуальні середовища та Jupyter
+venv/
+env/
+.ipynb_checkpoints/
+
+# Файли з даними (щоб не пушити 130 МБ на GitHub)
+*.txt
+*.csv
+*.json
+*.log
